@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# Gryffin UI: React + TypeScript + Vite
+
+[![Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/anchit-choudhry/gryffin-ui/blob/main/LICENSE)
+[![CodeQL](https://github.com/anchit-choudhry/LeetCode/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/codeql.yml)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
