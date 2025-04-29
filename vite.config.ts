@@ -5,7 +5,7 @@ import packageJson from "./package.json";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: packageJson.name,
+  base: `/${packageJson.name}/`,
   plugins: [react(), tailwindcss(),
   ],
 });
