@@ -1,7 +1,8 @@
 # Gryffin UI: React + Redux + HeroUI + Chart.js + TypeScript + Vite
 
 [![Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/anchit-choudhry/gryffin-ui/blob/main/LICENSE)
-[![CodeQL](https://github.com/anchit-choudhry/LeetCode/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/codeql.yml)
+[![CodeQL](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/codeql.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/codeql.yml)
+[![GitHub Pages](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/static.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/static.yml)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
