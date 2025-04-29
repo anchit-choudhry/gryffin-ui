@@ -1,4 +1,4 @@
-# Gryffin UI: React + TypeScript + Vite
+# Gryffin UI: React + Redux + HeroUI + Chart.js + TypeScript + Vite
 
 [![Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/anchit-choudhry/gryffin-ui/blob/main/LICENSE)
 [![CodeQL](https://github.com/anchit-choudhry/LeetCode/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/codeql.yml)
