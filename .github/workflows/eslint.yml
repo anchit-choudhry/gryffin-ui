@@ -40,8 +40,8 @@ jobs:
           npm install @microsoft/eslint-formatter-sarif
 
       - name: Run ESLint
-        run: NODE_ENV=production BABEL_ENV=production npx eslint src
-          --ext .js,.jsx,.ts,.tsx
+        run: NODE_ENV=production BABEL_ENV=production npx eslint ./src
+          --config eslint.config.js
           --format @microsoft/eslint-formatter-sarif
           --output-file eslint-results.sarif
         continue-on-error: true
