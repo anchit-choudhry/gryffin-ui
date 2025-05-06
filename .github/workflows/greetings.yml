@@ -3,6 +3,8 @@ name: Greetings
 
 on: [pull_request_target, issues]
 
+permissions: read-all
+
 jobs:
   greeting:
     runs-on: ubuntu-latest
