@@ -2,6 +2,10 @@
 
 [![Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/anchit-choudhry/gryffin-ui/blob/main/LICENSE)
 [![CodeQL](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/codeql.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/codeql.yml)
+[![DevSkim](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/devskim.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/devskim.yml)
+[![ESLint](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/eslint.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/eslint.yml)
+[![Lint Code Base](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/super-linter.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/super-linter.yml)
+[![OSV Scanner](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/osv-scanner.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/osv-scanner.yml)
 [![GitHub Pages](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/static.yml/badge.svg)](https://github.com/anchit-choudhry/gryffin-ui/actions/workflows/static.yml)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
