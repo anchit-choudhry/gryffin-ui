@@ -498,10 +498,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/js@npm:9.31.0, @eslint/js@npm:^9.31.0":
+"@eslint/js@npm:9.31.0":
   version: 9.31.0
   resolution: "@eslint/js@npm:9.31.0"
   checksum: 10c0/f9d4c73d0fafe70679a418cbb25ab7ebcc8f1dba6c32456d6f8ba5a137d583ecff233cfe10f61f41d7d4d2220e94cff1f39fc7ed1fa3819d1888dee1cad678ea
+  languageName: node
+  linkType: hard
+
+"@eslint/js@npm:^9.34.0":
+  version: 9.34.0
+  resolution: "@eslint/js@npm:9.34.0"
+  checksum: 10c0/53f1bfd2a374683d9382a6850354555f6e89a88416c34a5d34e9fbbaf717e97c2b06300e8f93e5eddba8bda8951ccab7f93a680e56ded1a3d21d526019e69bab
   languageName: node
   linkType: hard
 
@@ -5060,7 +5067,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "gryffin-ui@workspace:."
   dependencies:
-    "@eslint/js": "npm:^9.31.0"
+    "@eslint/js": "npm:^9.34.0"
     "@heroicons/react": "npm:^2.2.0"
     "@heroui/react": "npm:^2.8.0-beta.10"
     "@heroui/use-theme": "npm:^2.1.10"
