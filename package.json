@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
-    "@heroui/react": "^2.8.10",
+    "@heroui/react": "^3.0.1",
     "@heroui/use-theme": "^2.1.10",
     "@reduxjs/toolkit": "^2.11.2",
     "@tailwindcss/vite": "^4.2.2",
