@@ -1,11 +1,10 @@
 function MainContent() {
-  return <></>; /*<div className="gap-2">
+  return <></>; /* <div className="gap-2">
     <Card className="max-w-[25vw] max-h-[50vh]" shadow="sm">
-      <CardBody>
-        
+      <CardBody>        
       </CardBody>
     </Card>
-   </div>;*/
+   </div>; */
 }
 
 export default MainContent;
