@@ -28,9 +28,7 @@ function TopNavigation() {
   return (
     <Navbar isBordered isMenuOpen={isMenuOpen} onMenuOpenChange={setIsMenuOpen}>
       <NavbarContent justify="start">
-        <NavbarMenuToggle
-          aria-label={isMenuOpen ? "Close menu" : "Open menu"}
-        />
+        <NavbarMenuToggle aria-label={isMenuOpen ? "Close menu" : "Open menu"} />
       </NavbarContent>
 
       <NavbarContent justify="end">
@@ -45,7 +43,7 @@ function TopNavigation() {
         {theme === "dark" && (
           <NavbarItem>
             <SunIcon
-              className={`border-1 p-1.25 rounded-xl size-10 dark:text-gray-700`}
+              className={`border p-1.25 rounded-xl size-10 dark:text-gray-700`}
               onClick={() => setTheme("light")}
             />
           </NavbarItem>
@@ -53,7 +51,7 @@ function TopNavigation() {
         {theme === "light" && (
           <NavbarItem>
             <MoonIcon
-              className={`border-1 p-1.25 rounded-xl size-10 light:text-gray-400`}
+              className={`border p-1.25 rounded-xl size-10 light:text-gray-400`}
               onClick={() => setTheme("dark")}
             />
           </NavbarItem>
@@ -68,8 +66,8 @@ function TopNavigation() {
                 index === menuItems.length - 2
                   ? "warning"
                   : index === menuItems.length - 1
-                  ? "danger"
-                  : "foreground"
+                    ? "danger"
+                    : "foreground"
               }
               href="#"
               size="lg"

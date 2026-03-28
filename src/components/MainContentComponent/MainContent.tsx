@@ -6,6 +6,6 @@ function MainContent() {
       </CardBody>
     </Card>
    </div>;*/
-};
+}
 
 export default MainContent;

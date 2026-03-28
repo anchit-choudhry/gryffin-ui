@@ -10,5 +10,5 @@ createRoot(document.getElementById("root")!).render(
     <HeroUIProvider>
       <App />
     </HeroUIProvider>
-  </StrictMode>
+  </StrictMode>,
 );
